@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "d34eedc3-3b1a-405a-a554-9ffc10b98a7b",
+		"name": "Task 1 DB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42845213",
+		"_collection_link": "https://chat-app-api-1575.postman.co/workspace/My-Workspace~f870b6e2-09b6-4ad1-8819-a5fa1fbf5d7b/collection/42845213-d34eedc3-3b1a-405a-a554-9ffc10b98a7b?action=share&source=collection_link&creator=42845213"
+	},
+	"item": [
+		{
+			"name": "Post 1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Post 2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Blogs",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Blog By Id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Update Blog",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
